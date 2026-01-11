@@ -28,7 +28,7 @@ I work across both frontend and backend, delivering complete end-to-end solution
 - Basic deployment & hosting workflows
 
 ## 📌 Featured Projects
-- 🔹 **Personal Portfolio Website([resul.space](https://www.resulcan.space/))**  
+- 🔹 **Personal Portfolio Website([resulcan.space](https://www.resulcan.space/))**  
   A modern, responsive personal website showcasing projects and skills.
 
 - 🔹 **Focus Tracking Application([worxtracker.com](https://worxtracker.com/))**  
