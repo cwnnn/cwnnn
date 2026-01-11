@@ -38,7 +38,7 @@ I work across both frontend and backend, delivering complete end-to-end solution
   SEO-friendly and performance-optimized websites for businesses.
 
 ## 📫 Get in Touch
-- 🌐 Portfolio: **([resul.space](https://www.resulcan.space/))**
+- 🌐 Portfolio: **([resulcan.space](https://www.resulcan.space/))**
 - 💼 Bionluk: **()**
 - ✉️ Email: **(resulcwn@gmail.com)**
 
